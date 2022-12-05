@@ -1,7 +1,6 @@
 from numpy import * 
 from pandas import * 
 from sympy import * 
-from timeit import *
 
 #Python can be used to predict the atomic spectrum of the Hydrogen atom. For example, 
 
