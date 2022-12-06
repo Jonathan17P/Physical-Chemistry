@@ -2,6 +2,6 @@ Physical chemistry, as it's name implies, is the subset of chemistry, in which i
 
 The goal of the project is to provide the reader an alternative to Computer Algebra Systems (CAS), in the hopes that the reader does not become discourgaed while taking physical chemistry and maybe even comes to enjoy it. This project will use Python exclusively. The reason why Python was chosen is because it has a low barrier to entry, while capable of answering questions well beyond typical questions encountered in a standard physical chemistry course. Python is robust, in the sense that we can answer questions numerically, as well as symbolically.
 
-This project will work through examples and selected problems from Physical Chemistry: A Molecular Approach written by Donald A. McQuarrie & John D. Simon. The project will be divided up into chapters. It is the author's intent to write a Python program for each example problem from each chapter, as well as a few selected problems from each chapter. 
+This project will work through examples and selected problems from Physical Chemistry: A Molecular Approach written by Donald A. McQuarrie & John D. Simon. The project will be divided up into chapters. It is the author's intent to write a Python program, for each example problem from each chapter, as well as a few selected problems from each chapter. 
 
 I hope this helps you from becoming discourged in physical chemistry. Happy learning!
