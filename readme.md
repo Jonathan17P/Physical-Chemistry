@@ -4,4 +4,4 @@ The goal of the project is to provide the reader an alternative to Computer Alge
 
 This project will work through examples and selected problems from Physical Chemistry: A Molecular Approach written by Donald A. McQuarrie & John D. Simon. The project will be divided up into chapters. It is the author's intent to write a Python program, to answer each example problem from each chapter, as well as a few selected problems from each chapter. 
 
-I hope this helps you from becoming discourged from physical chemistry and maybe you realize you even enjoy it!     
+I hope this helps you from becoming discourged in physical chemistry. Happy learning!
