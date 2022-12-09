@@ -4,6 +4,8 @@ from sympy import *
 
 #Python can be used to predict the atomic spectrum of the Hydrogen atom. For example, 
 
+#Example 1-4
+
 #Balmer's Formula 
 
 def balmer(n): 
@@ -34,6 +36,7 @@ def balmer(n):
 
 
 
+#Example 1-5
 
 #Rydberg Formula 
 
